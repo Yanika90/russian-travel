@@ -1,0 +1,9 @@
+.intro__box {
+    width: 690px;
+}
+
+@media (max-width: 768px) {
+    .intro__box {
+        width: 100%;
+    }
+}

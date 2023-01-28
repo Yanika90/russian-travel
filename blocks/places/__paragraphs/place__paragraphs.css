@@ -1,0 +1,18 @@
+.place__paragraphs {
+    grid-area: paragraphs;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+}
+@media (max-width: 983px) {
+    .place__paragraphs {
+        font-size: 16px;
+        line-height: 26px;
+    }
+}
+
+@media (max-width: 700px) {
+    .place__paragraphs {
+        padding: 0 16px;
+    }
+}

@@ -1,0 +1,25 @@
+.photos {
+    width: calc(100% - (48px * 2));
+    margin: 92px auto;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+    gap: 16px;
+}
+
+@media (max-width: 768px) {
+    .photos {
+        width: calc(100% - (24px * 2));
+        margin-top: 88px;
+        margin-bottom: 88px;
+    }
+}
+
+@media (max-width: 320px) {
+    .photos {
+        width: calc(100% - (16px * 2));
+        margin-top: 64px;
+        margin-bottom: 64px;
+        gap: 12px;
+    }
+}

@@ -1,0 +1,29 @@
+.places {
+    width: calc(100% - (148px * 2));
+    margin: 92px auto 0;
+}
+
+@media (max-width: 1170px) {
+    .places {
+        width: calc(100% - (48px * 2));
+    }
+}
+
+@media (max-width: 881px) {
+    .places {
+        width: calc(100% - (24px * 2));
+        margin-top: 64px;
+    }
+}
+
+@media (max-width: 700px) {
+    .places {
+        width: 100%;
+    }
+}
+
+@media (max-width: 400px) {
+    .places {
+        margin-top: 64px;
+    }
+}
