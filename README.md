@@ -23,4 +23,4 @@ ___
 * Позиционирование элементов;
 * Работа с макетом в Figma.
 ___
-##### [Ссылка на GitHub Pages]()
+##### [Ссылка на GitHub Pages](https://yanika90.github.io/russian-travel/)
