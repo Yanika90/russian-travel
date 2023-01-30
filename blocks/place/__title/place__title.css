@@ -10,11 +10,6 @@
     .place__title {
         font-size: 42px;
         line-height: 46px;
-    }
-}
-
-@media (max-width: 768px) {
-    .place__title:first-child {
         padding-right: 11px;
     }
 }
