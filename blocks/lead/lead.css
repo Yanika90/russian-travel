@@ -3,7 +3,7 @@
     margin: 56px auto 0;
 }
 
-@media (max-width: 1030px) {
+@media (max-width: 1279px) {
     .lead {
         width: calc(100% - (48px * 2));
         margin-top: 48px;
@@ -13,11 +13,5 @@
 @media (max-width: 770px) {
     .lead {
         width: 100%;
-    }
-}
-
-@media (max-width: 326px) {
-    .lead {
-        margin-top: 48px;
     }
 }
