@@ -26,5 +26,5 @@ ___
 * Работа с макетом в Figma.
 
 **Инструкция по установке:**
-1. Клонировать репозиторий git@github.com:Yanika90/russian-travel.git
-2. Открыть проект в LiveServer
+1. Клонировать репозиторий `git@github.com:Yanika90/russian-travel.git`
+2. Открыть проект в `LiveServer`
