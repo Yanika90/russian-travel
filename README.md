@@ -24,8 +24,6 @@ ___
 * Свойство transition со значением opacity для анимации ссылок;
 * Позиционирование элементов;
 * Работа с макетом в Figma.
-___
-##### [Ссылка на GitHub Pages](https://yanika90.github.io/russian-travel/)
 
 **Инструкция по установке:**
 1. Клонировать репозиторий git@github.com:Yanika90/russian-travel.git
